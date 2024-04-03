@@ -9,7 +9,7 @@ function isSameType(value1, value2) {
         return false;
     }
 
-    return true;
+    
 }
 
 
